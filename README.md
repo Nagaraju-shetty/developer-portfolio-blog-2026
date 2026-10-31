@@ -60,7 +60,9 @@ my-nextjs-project/
 ├── package.json
 └── README.md
 ```
+## Live Demo
 
+[Visit My Portfolio](https://developer-portfolio-blog-2026.vercel.app)
 ## Getting Started
 
 ### 1. Clone the repository
